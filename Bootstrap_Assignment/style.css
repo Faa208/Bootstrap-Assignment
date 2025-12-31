@@ -1,0 +1,16 @@
+ /* Custom CSS */
+
+/* change page background */
+body {
+  background-color: #faf8f8;
+}
+
+/* add spaace between sections */
+section {
+  margin-bottom: 10px;
+}
+
+/* customize headings */
+h2 {
+  color: #c5fd0d;
+}
